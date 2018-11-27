@@ -1,6 +1,6 @@
 token=NTE2OTAxNzcwOTE2NzkwMjg0.Dt6aIw.ZjGQ9lL75Hxe_ybQOL4DDrKJXBc
 owner=349095859859881984
-prefix=#
+prefix=.
 game=Blue Bot List!
 stayinchannel=true
 songinstatus=false
