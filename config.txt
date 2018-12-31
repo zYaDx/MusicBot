@@ -1,6 +1,6 @@
-token=NDg3NzE2MjU5NDg4NzI3MDQw.DwtGiA.Yh9ns_6oSku-vyzazk63OoczpeA
+token=NDg3NzE2MjU5NDg4NzI3MDQw.DwtQ6Q.rznDW8Nzwc_8rNlNpSc8bBWt0wc
 owner=349095859859881984
 prefix=m-
-game=m-help
+game=m-help |BlueMusic :blue_heart::sparkles:
 stayinchannel=true
 songinstatus=false
