@@ -1,6 +1,6 @@
-token=NTE2OTAxNzcwOTE2NzkwMjg0.Dt6aIw.ZjGQ9lL75Hxe_ybQOL4DDrKJXBc
+token=NDg3NzE2MjU5NDg4NzI3MDQw.DwtGiA.Yh9ns_6oSku-vyzazk63OoczpeA
 owner=349095859859881984
-prefix=.
-game=.play | Blue Bot List.™
+prefix=m-
+game=m-help
 stayinchannel=true
 songinstatus=false
