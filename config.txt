@@ -1,6 +1,6 @@
-token=NDg3NzE2MjU5NDg4NzI3MDQw.DwtQ6Q.rznDW8Nzwc_8rNlNpSc8bBWt0wc
-owner=349095859859881984
-prefix=m-
-game=m-help |BlueMusic :blue_heart::sparkles:
+token=NjM2MTU5MDIzMDMyNDM0Njg4.Xa-hfQ.lYLks-nm2RJER8QCMdS_OADz_Zo
+owner=283880597095710721
+prefix=1
+game=1help | By: ZyTon#5555
 stayinchannel=true
 songinstatus=false
